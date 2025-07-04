@@ -1,7 +1,7 @@
 # N3tHawk Cybersecurity Perfect Roadmap 🔐
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hamed233/Cybersecurity-Mastery-Roadmap/main/images/cybersecurity_roadmap.png" alt="Cybersecurity Roadmap Banner" width="800">
+  <img src="Blue%20and%20White%20Illustrative%20Playful%20Basic%20Ai%20Tools%20YouTube%20Thumbnail.png" width="800">
 </p>
 
 > 🚀 **Your ultimate guide to becoming a cybersecurity expert — from zero to hero. Packed with curated resources, hands-on tools, labs, CTFs, certifications, and career tips. Designed for absolute beginners, students, and aspiring professionals!**
